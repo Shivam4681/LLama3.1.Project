@@ -17,7 +17,7 @@ The dataset used in this project contains the following features:<br>
 #### Project Overview:<br>
 
 • Model Deployment: The LLama3.1 model is deployed using Groq, ensuring optimized performance for handling large-scale language tasks.<br>
-Web Interface: A Streamlit app is developed to provide an accessible and interactive experience, where users can input queries and receive responses from the model.<br>
+• Web Interface: A Streamlit app is developed to provide an accessible and interactive experience, where users can input queries and receive responses from the model.<br>
 
 
 #### How to Run the Project: <br>
